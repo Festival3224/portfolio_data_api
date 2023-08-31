@@ -1,5 +1,4 @@
-{
-    "projects": [
+[
         {
             "id": 1,
             "title": "Manage",
@@ -45,4 +44,3 @@
             "complete": true
         }
     ]
-}
