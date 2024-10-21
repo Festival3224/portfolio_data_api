@@ -3,8 +3,8 @@
         {
             "id": 1,
             "title": "Manage",
-            "imageUrl": "../assets/images/portfolio/desktop/image-portfolio-manage.jpg",
-            "images": ["../assets/images/detail/desktop/image-manage-hero.jpg",
+            "imageUrl": "src/assets/images/portfolio/desktop/image-portfolio-manage.jpg",
+            "images": ["src/assets/images/detail/desktop/image-manage-hero.jpg",
                        "../assets/images/detail/desktop/image-manage-preview-1.jpg",
                        "../assets/images/detail/desktop/image-manage-preview-2.jpg"],
             "details": "This project required me to build a fully responsive landing page to the designs provided. I used HTML5, along with CSS Grid and JavaScript for the areas that required interactivity, such as the testimonial slider.",
@@ -15,7 +15,7 @@
             "id": 2,
             "title": "Bookmark",
             "imageUrl": "../assets/images/portfolio/desktop/image-portfolio-bookmark.jpg",
-            "images": ["../assets/images/detail/desktop/image-bookmark-hero.jpg",
+            "images": ["src/assets/images/detail/desktop/image-bookmark-hero.jpg",
                        "../assets/images/detail/desktop/image-bookmark-preview-1.jpg",
                        "../assets/images/detail/desktop/image-bookmark-preview-2.jpg"],
             "details": "This project required me to build a fully responsive landing page to the designs provided. I used HTML5, along with CSS Grid and JavaScript for the areas that required interactivity, such as the features section.",
@@ -25,7 +25,7 @@
         {
             "id": 3,
             "title": "Insure",
-            "imageUrl": "@/assets/images/portfolio/desktop/image-portfolio-insure.jpg",
+            "imageUrl": "src/assets/images/portfolio/desktop/image-portfolio-insure.jpg",
             "images": ["@/assets/images/detail/desktop/image-insure-hero.jpg",
                        "@/assets/images/detail/desktop/image-insure-preview-1.jpg",
                        "@/assets/images/detail/desktop/image-insure-preview-2.jpg"],
