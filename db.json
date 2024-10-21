@@ -3,7 +3,7 @@
         {
             "id": 1,
             "title": "Manage",
-            "imageUrl": "@/assets/images/portfolio/desktop/image-portfolio-manage.jpg",
+            "imageUrl": "../assets/images/portfolio/desktop/image-portfolio-manage.jpg",
             "images": ["@/assets/images/detail/desktop/image-manage-hero.jpg",
                        "@/assets/images/detail/desktop/image-manage-preview-1.jpg",
                        "@/assets/images/detail/desktop/image-manage-preview-2.jpg"],
