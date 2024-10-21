@@ -14,7 +14,7 @@
         {
             "id": 2,
             "title": "Bookmark",
-            "imageUrl": "../src/assets/images/portfolio/desktop/image-portfolio-bookmark.jpg",
+            "imageUrl": "/src/assets/images/portfolio/desktop/image-portfolio-bookmark.jpg",
             "images": ["../src/assets/images/detail/desktop/image-bookmark-hero.jpg",
                        "../assets/images/detail/desktop/image-bookmark-preview-1.jpg",
                        "../assets/images/detail/desktop/image-bookmark-preview-2.jpg"],
