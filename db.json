@@ -3,10 +3,10 @@
         {
             "id": 1,
             "title": "Manage",
-            "imageUrl": "assets/images/portfolio/desktop/image-portfolio-manage.jpg",
-            "images": ["assets/images/detail/desktop/image-manage-hero.jpg",
-                       "assets/images/detail/desktop/image-manage-preview-1.jpg",
-                       "assets/images/detail/desktop/image-manage-preview-2.jpg"],
+            "imageUrl": "/assets/images/portfolio/desktop/image-portfolio-manage.jpg",
+            "images": ["/assets/images/detail/desktop/image-manage-hero.jpg",
+                       "/assets/images/detail/desktop/image-manage-preview-1.jpg",
+                       "/assets/images/detail/desktop/image-manage-preview-2.jpg"],
             "details": "This project required me to build a fully responsive landing page to the designs provided. I used HTML5, along with CSS Grid and JavaScript for the areas that required interactivity, such as the testimonial slider.",
             "description": "This project was a front-end  challenge from Frontend Mentor. It’s a platform that enables you to practice building websites to a design and project brief. Each challenge includes mobile and desktop designs to show how the website should look at different screen sizes. Creating these projects has helped me refine my workflow and solve real-world coding problems. I’ve learned something new with each project, helping me to improve and adapt my style.",
             "complete": true
@@ -36,7 +36,7 @@
         {
             "id": 4,
             "title": "Fylo",
-            "imageUrl": "/src/assets/images/portfolio/desktop/image-portfolio-fylo.jpg",
+            "imageUrl": "/assets/images/portfolio/desktop/image-portfolio-fylo.jpg",
             "images": ["/src/assets/images/detail/desktop/image-fylo-hero.jpg",
                        "/src/assets/images/detail/desktop/image-fylo-preview-1.jpg",
                        "/src/assets/images/detail/desktop/image-fylo-preview-2.jpg"],
